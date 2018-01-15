@@ -1,6 +1,7 @@
 <?php
 
-/* Recursion of __tostring() function
+/* mark by zouyi,can we detect this by using AST?
+ * Recursion of __tostring() function
  *
  * Crashes all currently supported PHP versions (5.6, 7.0, 7.1).
  *
