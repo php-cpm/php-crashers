@@ -1,5 +1,6 @@
 <?php
-/* Recursion in __clone() function.
+/* mark by zouyi, can we detect it by AST?
+ * Recursion in __clone() function.
  *
  * Crashes all currently supported PHP versions (5.6, 7.0, 7.1).
  *
