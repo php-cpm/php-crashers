@@ -1,5 +1,6 @@
 <?php
-/* Recursion in __destruct() and constructor.
+/* mark by zouyi, can we detect by using AST?
+ * Recursion in __destruct() and constructor.
  *
  * Crashes all currently supported PHP versions (5.6, 7.0, 7.1).
  *
